@@ -24,3 +24,4 @@ jobs:
         with:
           name: ipa
           path: GitAction/GitAction/bin/iPhone/Release/GitAction.ipa
+          
