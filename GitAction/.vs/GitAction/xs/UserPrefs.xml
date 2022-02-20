@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{4E9A9D57-313E-4042-AE11-E99FC7B1B37E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GitAction/Info.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GitAction/Main.cs">
     <Files>
       <File FileName="GitAction/Info.plist" />
+      <File FileName="GitAction/Main.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,9 +14,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.GitAction FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.49396228-5DCD-4E66-8115-6D317A4A159C" />
+  <MonoDevelop.Ide.ItemProperties.GitAction PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.b59681d11a9be856e181f0ca8f6544b3b2e882e8" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
