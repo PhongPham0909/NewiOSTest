@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "esFXJglnbPliJtIuMNdydshwhXr6WiLTJZvGbKC67FrCOzUM2A4Tdw7G+crIh9ColKt1I+lh4K6OJhoezwnybA==",
+  "success": true,
+  "projectFilePath": "/Users/patientpopfpt/Documents/Github Action/NewIOSTest/NewiOSTest/GitAction/GitAction/GitAction.csproj",
+  "expectedPackageFiles": [
+    "/Users/patientpopfpt/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/patientpopfpt/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{4E9A9D57-313E-4042-AE11-E99FC7B1B37E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GitAction/Info.plist">
+    <Files>
+      <File FileName="GitAction/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GitAction" expanded="True">
+            <Node name="GitAction" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GitAction FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.49396228-5DCD-4E66-8115-6D317A4A159C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
